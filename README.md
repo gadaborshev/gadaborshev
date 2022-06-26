@@ -1,4 +1,4 @@
-### Hi there 👋. My name's Ruslan Gadaborshev, and I'm QA-trainee, studying on a Vadim Ksendzov's course. 
+### Hi there 👋. I'm QA-trainee, studying on a Vadim Ksendzov's course. 
 
 <!--
 **gadaborshev/gadaborshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
