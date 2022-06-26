@@ -1,4 +1,4 @@
-### Hi there 👋. I'm QA-trainee, studying on a Vadim Ksendzov's course. 
+### Hi there 👋. I'm QA-trainee, studying on a Vadim Ksendzov's software testing course. 
 
 <!--
 **gadaborshev/gadaborshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 
 
-<div id="header" align="">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" height="250"/>
 </div>
 
 
-<div id="badges" align="">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gadaborshev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
