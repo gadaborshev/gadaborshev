@@ -32,7 +32,7 @@
   <img src="https://github.com/gadaborshev/gadaborshev/blob/main/images/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
   <img src="https://github.com/gadaborshev/gadaborshev/blob/main/images/git-plain-wordmark.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
   <img src="https://github.com/gadaborshev/gadaborshev/blob/main/images/postman.svg" title="Postman" alt="Postman" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/gadaborshev/gadaborshev/blob/main/images/jmeter.svg" title="Apache Jmeter" alt="Apache Jmeter" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/gadaborshev/gadaborshev/blob/main/images/jmeter.svg" title="Apache Jmeter" alt="Apache Jmeter" width="40" height="30"/>&nbsp;
    <img src="https://github.com/gadaborshev/gadaborshev/blob/main/images/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>&nbsp;
  
 </div>
