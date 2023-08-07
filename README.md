@@ -34,5 +34,5 @@
   <img src="https://github.com/gadaborshev/gadaborshev/blob/main/images/postman.svg" title="Postman" alt="Postman" width="30" height="30"/>&nbsp;
   <img src="https://github.com/gadaborshev/gadaborshev/blob/main/images/jmeter.svg" title="Apache Jmeter" alt="Apache Jmeter" width="50" height="30"/>&nbsp;
    <img src="https://github.com/gadaborshev/gadaborshev/blob/main/images/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>&nbsp;
- 
-</div>
+   <img src="https://github.com/gadaborshev/gadaborshev/blob/main/images/cypress-svgrepo-com.svg" title="Cypress" alt="Cypress" width="30" height="30"/>&nbsp;
+ </div>
